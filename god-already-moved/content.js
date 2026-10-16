@@ -9,7 +9,7 @@ const SITE = {
   author: "Mia Luce",
   tagline: "One faithful action. Every day. Starting now.",
   // Paste the link to the book's review page here:
-  reviewUrl: "https://www.amazon.com/",
+  reviewUrl: "https://www.amazon.com/review/create-review?asin=B0HN5GDX3F",
   // Shown on every emergency letter:
   crisisText: "If tonight is more than a hard night, please reach a person now.",
   crisisLinkLabel: "Find a helpline in your country",
